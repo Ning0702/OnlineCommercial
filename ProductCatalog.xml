@@ -1,0 +1,1363 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ProductCatalog>
+    <WearableCatalog>
+        <wearable id="Gear Fit2">
+            <name>Gear Fit2</name>
+            <price>99.99</price>
+            <image>fitness1.JPG</image>
+            <manufacturer>Fitbit</manufacturer>
+            <condition>New</condition>
+            <discount>10.0</discount>
+            <type>wearables</type>
+        </wearable>
+        <wearable id="fenix5">
+            <name>fenix5</name>
+            <price>549.99</price>
+            <image>fitness2.JPG</image>
+            <manufacturer>Fitbit</manufacturer>
+            <condition>New</condition>
+            <discount>10.0</discount>
+            <type>wearables</type>
+        </wearable>
+        <wearable id="Ionic">
+            <name>Ionic</name>
+            <price>249.99</price>
+            <image>fitness3.JPG</image>
+            <manufacturer>Fitbit</manufacturer>
+            <condition>New</condition>
+            <discount>10.0</discount>
+            <type>wearables</type>
+        </wearable>
+        <wearable id="Forerunner">
+            <name>Forerunner</name>
+            <price>169.99</price>
+            <image>fitness4.JPG</image>
+            <manufacturer>Fitbit</manufacturer>
+            <condition>New</condition>
+            <discount>10.0</discount>
+            <type>wearables</type>
+        </wearable>
+        <wearable id="vivoactive">
+            <name>vivoactive</name>
+            <price>299.99</price>
+            <image>fitness5.JPG</image>
+            <manufacturer>Fitbit</manufacturer>
+            <condition>New</condition>
+            <discount>10.0</discount>
+            <type>wearables</type>
+        </wearable>
+        <wearable id="vivoactive3">
+            <name>vivoactive3</name>
+            <price>269.99</price>
+            <image>fitness6.JPG</image>
+            <manufacturer>Fitbit</manufacturer>
+            <condition>New</condition>
+            <discount>10.0</discount>
+            <type>wearables</type>
+        </wearable>
+
+
+        <wearable id="Gear S3">
+            <name>Gear S3</name>
+            <price>269.99</price>
+            <image>smart1.JPG</image>
+            <manufacturer>Samsung</manufacturer>
+            <condition>New</condition>
+            <discount>10.0</discount>
+            <type>wearables</type>
+        </wearable>
+        <wearable id="GalaxyWatch">
+            <name>GalaxyWatch</name>
+            <price>329.99</price>
+            <image>smart2.JPG</image>
+            <manufacturer>Samsung</manufacturer>
+            <condition>New</condition>
+            <discount>10.0</discount>
+            <type>wearables</type>
+        </wearable>
+        <wearable id="Bradshaw">
+            <name>Bradshaw</name>
+            <price>199.99</price>
+            <image>smart3.JPG</image>
+            <manufacturer>Samsung</manufacturer>
+            <condition>New</condition>
+            <discount>10.0</discount>
+            <type>wearables</type>
+        </wearable>
+        <wearable id="Ticwatch E">
+            <name>Ticwatch E</name>
+            <price>129.99</price>
+            <image>smart4.JPG</image>
+            <manufacturer>Samsung</manufacturer>
+            <condition>New</condition>
+            <discount>10.0</discount>
+            <type>wearables</type>
+        </wearable>
+        <wearable id="Q Venture">
+            <name>Q Venture</name>
+            <price>179.99</price>
+            <image>smart5.JPG</image>
+            <manufacturer>Samsung</manufacturer>
+            <condition>New</condition>
+            <discount>10.0</discount>
+            <type>wearables</type>
+        </wearable>
+        <wearable id="Series 3">
+            <name>Series 3</name>
+            <price>279.99</price>
+            <image>smart6.JPG</image>
+            <manufacturer>Samsung</manufacturer>
+            <condition>New</condition>
+            <discount>20.0</discount>
+            <type>wearables</type>
+        </wearable>
+
+        <wearable id="AirPods">
+            <name>AirPods</name>
+            <price>159.99</price>
+            <image>headphone1.JPG</image>
+            <manufacturer>Beats</manufacturer>
+            <condition>New</condition>
+            <discount>20.0</discount>
+            <type>wearables</type>
+        </wearable>
+        <wearable id="Beats Studio 3">
+            <name>Beats Studio 3</name>
+            <price>249.99</price>
+            <image>headphone2.JPG</image>
+            <manufacturer>Beats</manufacturer>
+            <condition>New</condition>
+            <discount>20.0</discount>
+            <type>wearables</type>
+        </wearable>
+        <wearable id="Noise1">
+            <name>Noise1</name>
+            <price>49.99</price>
+            <image>headphone3.JPG</image>
+            <manufacturer>Beats</manufacturer>
+            <condition>New</condition>
+            <discount>20.0</discount>
+            <type>wearables</type>
+        </wearable>
+        <wearable id="ZX">
+            <name>ZX</name>
+            <price>19.99</price>
+            <image>headphone4.JPG</image>
+            <manufacturer>Beats</manufacturer>
+            <condition>New</condition>
+            <discount>20.0</discount>
+            <type>wearables</type>
+        </wearable>
+        <wearable id="BeatsX">
+            <name>BeatsX</name>
+            <price>99.99</price>
+            <image>headphone5.JPG</image>
+            <manufacturer>Beats</manufacturer>
+            <condition>New</condition>
+            <discount>20.0</discount>
+            <type>wearables</type>
+        </wearable>
+        <wearable id="1000XM2">
+            <name>1000XM2</name>
+            <price>349.99</price>
+            <image>headphone6.JPG</image>
+            <manufacturer>Beats</manufacturer>
+            <condition>New</condition>
+            <discount>20.0</discount>
+            <type>wearables</type>
+        </wearable>
+
+        <wearable id="Stand Alone">
+            <name>Stand Alone</name>
+            <price>249.99</price>
+            <image>virtual1.JPG</image>
+            <manufacturer>Oculus</manufacturer>
+            <condition>New</condition>
+            <discount>15.0</discount>
+            <type>wearables</type>
+        </wearable>
+        <wearable id="playstation">
+            <name>playstation</name>
+            <price>299.99</price>
+            <image>virtual2.JPG</image>
+            <manufacturer>Oculus</manufacturer>
+            <condition>New</condition>
+            <discount>20.0</discount>
+            <type>wearables</type>
+        </wearable>
+        <wearable id="Rift Touch">
+            <name>Rift Touch</name>
+            <price>399.99</price>
+            <image>virtual3.JPG</image>
+            <manufacturer>Oculus</manufacturer>
+            <condition>New</condition>
+            <discount>20.0</discount>
+            <type>wearables</type>
+        </wearable>
+        <wearable id="VR">
+            <name>VR</name>
+            <price>499.99</price>
+            <image>virtual4.JPG</image>
+            <manufacturer>Oculus</manufacturer>
+            <condition>New</condition>
+            <discount>20.0</discount>
+            <type>wearables</type>
+        </wearable>
+        <wearable id="Marvel Powers">
+            <name>Marvel Power</name>
+            <price>399.99</price>
+            <image>virtual5.JPG</image>
+            <manufacturer>Oculus</manufacturer>
+            <condition>New</condition>
+            <discount>20.0</discount>
+            <type>wearables</type>
+        </wearable>
+        <wearable id="Odyssey">
+            <name>Odyssey</name>
+            <price>499.99</price>
+            <image>virtual6.JPG</image>
+            <manufacturer>Oculus</manufacturer>
+            <condition>New</condition>
+            <discount>20.0</discount>
+            <type>wearables</type>
+        </wearable>
+
+        <wearable id="Whistle 3">
+            <name>Whistle 3</name>
+            <price>79.99</price>
+            <image>pet1.JPG</image>
+            <manufacturer>Poof</manufacturer>
+            <condition>New</condition>
+            <discount>20.0</discount>
+            <type>wearables</type>
+        </wearable>
+        <wearable id="Bean">
+            <name>Bean</name>
+            <price>49.99</price>
+            <image>pet2.JPG</image>
+            <manufacturer>Poof</manufacturer>
+            <condition>New</condition>
+            <discount>20.0</discount>
+            <type>wearables</type>
+        </wearable>
+        <wearable id="Pea Coral">
+            <name>Pea Coral</name>
+            <price>39.99</price>
+            <image>pet3.JPG</image>
+            <manufacturer>Poof</manufacturer>
+            <condition>New</condition>
+            <discount>20.0</discount>
+            <type>wearables</type>
+        </wearable>
+        <wearable id="Bean Lime">
+            <name>Bean Lime</name>
+            <price>37.99</price>
+            <image>pet4.JPG</image>
+            <manufacturer>Poof</manufacturer>
+            <condition>New</condition>
+            <discount>20.0</discount>
+            <type>wearables</type>
+        </wearable>
+        <wearable id="Pea Blue">
+            <name>Pea Blue</name>
+            <price>39.99</price>
+            <image>pet5.JPG</image>
+            <manufacturer>Poof</manufacturer>
+            <condition>New</condition>
+            <discount>20.0</discount>
+            <type>wearables</type>
+        </wearable>
+        <wearable id="Pea Lime">
+            <name>Pea Lime</name>
+            <price>39.99</price>
+            <image>pet6.JPG</image>
+            <manufacturer>Poof</manufacturer>
+            <condition>New</condition>
+            <discount>20.0</discount>
+            <type>wearables</type>
+        </wearable>
+    </WearableCatalog>
+
+
+    <PhoneCatalog>
+        <phone id="iPhone XS">
+            <name>iPhone XS</name>
+            <price>999.99</price>
+            <image>iPhoneXS.JPG</image>
+            <subCatagory>iPhone</subCatagory>
+            <manufacturer>Apple</manufacturer>
+            <condition>New</condition>
+            <discount>10.0</discount>
+            <type>phones</type>
+            <accessories>
+                <accessory>DILEX</accessory>
+                <accessory>OnlyCase</accessory>
+                <accessory>Roll</accessory>
+                <accessory>Northill</accessory>
+            </accessories>
+        </phone>
+        <phone id="iPhone SE">
+            <name>iPhone SE</name>
+            <price>139.99</price>
+            <image>iphone2.JPG</image>
+            <subCatagory>iPhone</subCatagory>
+            <manufacturer>Apple</manufacturer>
+            <condition>New</condition>
+            <discount>10.0</discount>
+            <type>phones</type>
+            <accessories>
+                <accessory>DILEX</accessory>
+                <accessory>OnlyCase</accessory>
+                <accessory>Roll</accessory>
+                <accessory>Northill</accessory>
+            </accessories>
+        </phone>
+        <phone id="iPhone 6s">
+            <name>iPhone 6s</name>
+            <price>399.99</price>
+            <image>iphone3.JPG</image>
+            <subCatagory>iPhone</subCatagory>
+            <manufacturer>Apple</manufacturer>
+            <condition>New</condition>
+            <discount>10.0</discount>
+            <type>phones</type>
+            <accessories>
+                <accessory>DILEX</accessory>
+                <accessory>OnlyCase</accessory>
+                <accessory>Roll</accessory>
+                <accessory>Northill</accessory>
+            </accessories>
+        </phone>
+        <phone id="iPhone SE 4G">
+            <name>iPhone SE 4G</name>
+            <price>139.99</price>
+            <image>iphone4.JPG</image>
+            <subCatagory>iPhone</subCatagory>
+            <manufacturer>Apple</manufacturer>
+            <condition>New</condition>
+            <discount>10.0</discount>
+            <type>phones</type>
+            <accessories>
+                <accessory>DILEX</accessory>
+                <accessory>OnlyCase</accessory>
+                <accessory>Roll</accessory>
+                <accessory>Northill</accessory>
+            </accessories>
+        </phone>
+        <phone id="iPhone 6s Grey">
+            <name>iPhone 6s Grey</name>
+            <price>269.99</price>
+            <image>iphone5.JPG</image>
+            <subCatagory>iPhone</subCatagory>
+            <manufacturer>Apple</manufacturer>
+            <condition>New</condition>
+            <discount>10.0</discount>
+            <type>phones</type>
+            <accessories>
+                <accessory>DILEX</accessory>
+                <accessory>OnlyCase</accessory>
+                <accessory>Roll</accessory>
+                <accessory>Northill</accessory>
+            </accessories>
+        </phone>
+        <phone id="iPhone 7 Plus">
+            <name>iPhone 7 Plus</name>
+            <price>769.99</price>
+            <image>iphone6.JPG</image>
+            <subCatagory>iPhone</subCatagory>
+            <manufacturer>Apple</manufacturer>
+            <condition>New</condition>
+            <discount>10.0</discount>
+            <type>phones</type>
+            <accessories>
+                <accessory>DILEX</accessory>
+                <accessory>OnlyCase</accessory>
+                <accessory>Roll</accessory>
+                <accessory>Northill</accessory>
+            </accessories>
+        </phone>
+        <phone id="iPhone 7">
+            <name>iPhone 7</name>
+            <price>669.99</price>
+            <image>iphone7.JPG</image>
+            <subCatagory>iPhone</subCatagory>
+            <manufacturer>Apple</manufacturer>
+            <condition>New</condition>
+            <discount>10.0</discount>
+            <type>phones</type>
+            <accessories>
+                <accessory>DILEX</accessory>
+                <accessory>OnlyCase</accessory>
+                <accessory>Roll</accessory>
+                <accessory>Northill</accessory>
+            </accessories>
+        </phone>
+        <phone id="iPhone 6s Plus">
+            <name>iPhone 6s Plus</name>
+            <price>349.99</price>
+            <image>iphone8.JPG</image>
+            <subCatagory>iPhone</subCatagory>
+            <manufacturer>Apple</manufacturer>
+            <condition>New</condition>
+            <discount>10.0</discount>
+            <type>phones</type>
+            <accessories>
+                <accessory>DILEX</accessory>
+                <accessory>OnlyCase</accessory>
+                <accessory>Roll</accessory>
+                <accessory>Northill</accessory>
+            </accessories>
+        </phone>
+        <phone id="iPhone X">
+            <name>iPhone X</name>
+            <price>899.99</price>
+            <image>iphone9.JPG</image>
+            <subCatagory>iPhone</subCatagory>
+            <manufacturer>Apple</manufacturer>
+            <condition>New</condition>
+            <discount>10.0</discount>
+            <type>phones</type>
+            <accessories>
+                <accessory>DILEX</accessory>
+                <accessory>OnlyCase</accessory>
+                <accessory>Roll</accessory>
+                <accessory>Northill</accessory>
+            </accessories>
+        </phone>
+        <phone id="iPhone 8 Plus">
+            <name>iPhone 8 Plus</name>
+            <price>779.99</price>
+            <image>iphone10.JPG</image>
+            <subCatagory>iPhone</subCatagory>
+            <manufacturer>Apple</manufacturer>
+            <condition>New</condition>
+            <discount>10.0</discount>
+            <type>phones</type>
+            <accessories>
+                <accessory>DILEX</accessory>
+                <accessory>OnlyCase</accessory>
+                <accessory>Roll</accessory>
+                <accessory>Northill</accessory>
+            </accessories>
+        </phone>
+
+        <phone id="Note9">
+            <name>Note9</name>
+            <price>799.99</price>
+            <image>samsung1.JPG</image>
+            <subCatagory>samsung</subCatagory>
+            <manufacturer>samsung</manufacturer>
+            <condition>Used</condition>
+            <discount>20.0</discount>
+            <type>phones</type>
+            <accessories>
+                <accessory>DILEX</accessory>
+                <accessory>OnlyCase</accessory>
+                <accessory>Roll</accessory>
+                <accessory>Northill</accessory>
+            </accessories>
+        </phone>
+        <phone id="S8">
+            <name>S8</name>
+            <price>449.99</price>
+            <image>samsung2.JPG</image>
+            <subCatagory>samsung</subCatagory>
+            <manufacturer>samsung</manufacturer>
+            <condition>Used</condition>
+            <discount>20.0</discount>
+            <type>phones</type>
+            <accessories>
+                <accessory>DILEX</accessory>
+                <accessory>OnlyCase</accessory>
+                <accessory>Roll</accessory>
+                <accessory>Northill</accessory>
+            </accessories>
+        </phone>
+        <phone id="S8 Blue">
+            <name>S8 Blue</name>
+            <price>449.99</price>
+            <image>samsung3.JPG</image>
+            <subCatagory>samsung</subCatagory>
+            <manufacturer>samsung</manufacturer>
+            <condition>Used</condition>
+            <discount>20.0</discount>
+            <type>phones</type>
+            <accessories>
+                <accessory>DILEX</accessory>
+                <accessory>OnlyCase</accessory>
+                <accessory>Roll</accessory>
+                <accessory>Northill</accessory>
+            </accessories>
+        </phone>
+        <phone id="S9 Purple">
+            <name>S9 Purple</name>
+            <price>569.99</price>
+            <image>samsung4.JPG</image>
+            <subCatagory>samsung</subCatagory>
+            <manufacturer>samsung</manufacturer>
+            <condition>Used</condition>
+            <discount>20.0</discount>
+            <type>phones</type>
+            <accessories>
+                <accessory>DILEX</accessory>
+                <accessory>OnlyCase</accessory>
+                <accessory>Roll</accessory>
+                <accessory>Northill</accessory>
+            </accessories>
+        </phone>
+        <phone id="Note8">
+            <name>Note8</name>
+            <price>699.99</price>
+            <image>samsung5.JPG</image>
+            <subCatagory>samsung</subCatagory>
+            <manufacturer>samsung</manufacturer>
+            <condition>Used</condition>
+            <discount>20.0</discount>
+            <type>phones</type>
+            <accessories>
+                <accessory>DILEX</accessory>
+                <accessory>OnlyCase</accessory>
+                <accessory>Roll</accessory>
+                <accessory>Northill</accessory>
+            </accessories>
+        </phone>
+        <phone id="J3">
+            <name>J3</name>
+            <price>189.99</price>
+            <image>samsung6.JPG</image>
+            <subCatagory>samsung</subCatagory>
+            <manufacturer>samsung</manufacturer>
+            <condition>Used</condition>
+            <discount>20.0</discount>
+            <type>phones</type>
+            <accessories>
+                <accessory>DILEX</accessory>
+                <accessory>OnlyCase</accessory>
+                <accessory>Roll</accessory>
+                <accessory>Northill</accessory>
+            </accessories>
+        </phone>
+        <phone id="J7">
+            <name>J7</name>
+            <price>189.99</price>
+            <image>samsung7.JPG</image>
+            <subCatagory>samsung</subCatagory>
+            <manufacturer>samsung</manufacturer>
+            <condition>Used</condition>
+            <discount>20.0</discount>
+            <type>phones</type>
+            <accessories>
+                <accessory>DILEX</accessory>
+                <accessory>OnlyCase</accessory>
+                <accessory>Roll</accessory>
+                <accessory>Northill</accessory>
+            </accessories>
+        </phone>
+        <phone id="Note9 Purple">
+            <name>Note9 Purple</name>
+            <price>789.99</price>
+            <image>samsung8.JPG</image>
+            <subCatagory>samsung</subCatagory>
+            <manufacturer>samsung</manufacturer>
+            <condition>Used</condition>
+            <discount>20.0</discount>
+            <type>phones</type>
+            <accessories>
+                <accessory>DILEX</accessory>
+                <accessory>OnlyCase</accessory>
+                <accessory>Roll</accessory>
+                <accessory>Northill</accessory>
+            </accessories>
+        </phone>
+        <phone id="J7 top">
+            <name>J7 top</name>
+            <price>289.99</price>
+            <image>samsung9.JPG</image>
+            <subCatagory>samsung</subCatagory>
+            <manufacturer>samsung</manufacturer>
+            <condition>Used</condition>
+            <discount>20.0</discount>
+            <type>phones</type>
+            <accessories>
+                <accessory>DILEX</accessory>
+                <accessory>OnlyCase</accessory>
+                <accessory>Roll</accessory>
+                <accessory>Northill</accessory>
+            </accessories>
+        </phone>
+        <phone id="Prime3">
+            <name>Prime3</name>
+            <price>189.99</price>
+            <image>samsung10.JPG</image>
+            <subCatagory>samsung</subCatagory>
+            <manufacturer>samsung</manufacturer>
+            <condition>Used</condition>
+            <discount>20.0</discount>
+            <type>phones</type>
+            <accessories>
+                <accessory>DILEX</accessory>
+                <accessory>OnlyCase</accessory>
+                <accessory>Roll</accessory>
+                <accessory>Northill</accessory>
+            </accessories>
+        </phone>
+
+        <phone id="Xperia XA2">
+            <name>Xperia XA2</name>
+            <price>379.99</price>
+            <image>sony1.JPG</image>
+            <subCatagory>Sony</subCatagory>
+            <manufacturer>Sony</manufacturer>
+            <condition>New</condition>
+            <discount>10.0</discount>
+            <type>phones</type>
+            <accessories>
+                <accessory>DILEX</accessory>
+                <accessory>OnlyCase</accessory>
+                <accessory>Roll</accessory>
+                <accessory>Northill</accessory>
+            </accessories>
+        </phone>
+        <phone id="Xperia Silver">
+            <name>Xperia Silver</name>
+            <price>249.99</price>
+            <image>sony2.JPG</image>
+            <subCatagory>Sony</subCatagory>
+            <manufacturer>Sony</manufacturer>
+            <condition>New</condition>
+            <discount>10.0</discount>
+            <type>phones</type>
+            <accessories>
+                <accessory>DILEX</accessory>
+                <accessory>OnlyCase</accessory>
+                <accessory>Roll</accessory>
+                <accessory>Northill</accessory>
+            </accessories>
+        </phone>
+        <phone id="Geek">
+            <name>Geek</name>
+            <price>239.99</price>
+            <image>sony3.JPG</image>
+            <subCatagory>Sony</subCatagory>
+            <manufacturer>Sony</manufacturer>
+            <condition>New</condition>
+            <discount>10.0</discount>
+            <type>phones</type>
+            <accessories>
+                <accessory>DILEX</accessory>
+                <accessory>OnlyCase</accessory>
+                <accessory>Roll</accessory>
+                <accessory>Northill</accessory>
+            </accessories>
+        </phone>
+        <phone id="XZ2 Silver">
+            <name>XZ2 Silver</name>
+            <price>449.99</price>
+            <image>sony4.JPG</image>
+            <subCatagory>Sony</subCatagory>
+            <manufacturer>Sony</manufacturer>
+            <condition>New</condition>
+            <discount>10.0</discount>
+            <type>phones</type>
+            <accessories>
+                <accessory>DILEX</accessory>
+                <accessory>OnlyCase</accessory>
+                <accessory>Roll</accessory>
+                <accessory>Northill</accessory>
+            </accessories>
+        </phone>
+        <phone id="XZ2 Black">
+            <name>XZ2 Black</name>
+            <price>689.99</price>
+            <image>sony5.JPG</image>
+            <subCatagory>Sony</subCatagory>
+            <manufacturer>Sony</manufacturer>
+            <condition>New</condition>
+            <discount>10.0</discount>
+            <type>phones</type>
+            <accessories>
+                <accessory>DILEX</accessory>
+                <accessory>OnlyCase</accessory>
+                <accessory>Roll</accessory>
+                <accessory>Northill</accessory>
+            </accessories>
+        </phone>
+        <phone id="XA2 black">
+            <name>XA2 black</name>
+            <price>239.99</price>
+            <image>sony6.JPG</image>
+            <subCatagory>Sony</subCatagory>
+            <manufacturer>Sony</manufacturer>
+            <condition>New</condition>
+            <discount>10.0</discount>
+            <type>phones</type>
+            <accessories>
+                <accessory>DILEX</accessory>
+                <accessory>OnlyCase</accessory>
+                <accessory>Roll</accessory>
+                <accessory>Northill</accessory>
+            </accessories>
+        </phone>
+        <phone id="XZ">
+            <name>XZ</name>
+            <price>439.99</price>
+            <image>sony7.JPG</image>
+            <subCatagory>Sony</subCatagory>
+            <manufacturer>Sony</manufacturer>
+            <condition>New</condition>
+            <discount>10.0</discount>
+            <type>phones</type>
+            <accessories>
+                <accessory>DILEX</accessory>
+                <accessory>OnlyCase</accessory>
+                <accessory>Roll</accessory>
+                <accessory>Northill</accessory>
+            </accessories>
+        </phone>
+        <phone id="XZ Green">
+            <name>XZ Green</name>
+            <price>439.99</price>
+            <image>sony8.JPG</image>
+            <subCatagory>Sony</subCatagory>
+            <manufacturer>Sony</manufacturer>
+            <condition>New</condition>
+            <discount>10.0</discount>
+            <type>phones</type>
+            <accessories>
+                <accessory>DILEX</accessory>
+                <accessory>OnlyCase</accessory>
+                <accessory>Roll</accessory>
+                <accessory>Northill</accessory>
+            </accessories>
+        </phone>
+        <phone id="XZ2 pink">
+            <name>XZ2 pink</name>
+            <price>439.99</price>
+            <image>sony9.JPG</image>
+            <subCatagory>Sony</subCatagory>
+            <manufacturer>Sony</manufacturer>
+            <condition>New</condition>
+            <discount>10.0</discount>
+            <type>phones</type>
+            <accessories>
+                <accessory>DILEX</accessory>
+                <accessory>OnlyCase</accessory>
+                <accessory>Roll</accessory>
+                <accessory>Northill</accessory>
+            </accessories>
+        </phone>
+        <phone id="XA2 blue">
+            <name>XA2 blue</name>
+            <price>339.99</price>
+            <image>sony10.JPG</image>
+            <subCatagory>Sony</subCatagory>
+            <manufacturer>Sony</manufacturer>
+            <condition>New</condition>
+            <discount>10.0</discount>
+            <type>phones</type>
+            <accessories>
+                <accessory>DILEX</accessory>
+                <accessory>OnlyCase</accessory>
+                <accessory>Roll</accessory>
+                <accessory>Northill</accessory>
+            </accessories>
+        </phone>
+    </PhoneCatalog>
+
+    <LaptopsCatalog>
+        <laptop id="Mac">
+            <name>Mac</name>
+            <price>1550.99</price>
+            <image>mac1.JPG</image>
+            <manufacturer>Apple</manufacturer>
+            <condition>New</condition>
+            <discount>15.0</discount>
+            <type>laptops</type>
+        </laptop>
+        <laptop id="Mac2">
+            <name>Mac2</name>
+            <price>1300.99</price>
+            <image>mac2.JPG</image>
+            <manufacturer>Apple</manufacturer>
+            <condition>Refurbished</condition>
+            <discount>15.0</discount>
+            <type>laptops</type>
+        </laptop>
+        <laptop id="Mac3">
+            <name>Mac3</name>
+            <price>1521.99</price>
+            <image>mac3.JPG</image>
+            <manufacturer>Apple</manufacturer>
+            <condition>New</condition>
+            <discount>15.0</discount>
+            <type>laptops</type>
+        </laptop>
+        <laptop id="Mac4">
+            <name>Mac4</name>
+            <price>1850.99</price>
+            <image>mac4.JPG</image>
+            <manufacturer>Apple</manufacturer>
+            <condition>New</condition>
+            <discount>15.0</discount>
+            <type>laptops</type>
+        </laptop>
+        <laptop id="Mac5">
+            <name>Mac5</name>
+            <price>1450.99</price>
+            <image>mac5.JPG</image>
+            <manufacturer>Apple</manufacturer>
+            <condition>New</condition>
+            <discount>15.0</discount>
+            <type>laptops</type>
+        </laptop>
+        <laptop id="Mac6">
+            <name>Mac6</name>
+            <price>1599.99</price>
+            <image>mac6.JPG</image>
+            <manufacturer>Apple</manufacturer>
+            <condition>New</condition>
+            <discount>15.0</discount>
+            <type>laptops</type>
+        </laptop>
+        <laptop id="Mac7">
+            <name>Mac7</name>
+            <price>1799.99</price>
+            <image>mac7.JPG</image>
+            <manufacturer>Apple</manufacturer>
+            <condition>New</condition>
+            <discount>15.0</discount>
+            <type>laptops</type>
+        </laptop>
+        <laptop id="Mac8">
+            <name>Mac8</name>
+            <price>1850.99</price>
+            <image>mac8.JPG</image>
+            <manufacturer>Apple</manufacturer>
+            <condition>New</condition>
+            <discount>15.0</discount>
+            <type>laptops</type>
+        </laptop>
+        <laptop id="Mac9">
+            <name>Mac9</name>
+            <price>1950.99</price>
+            <image>mac9.JPG</image>
+            <manufacturer>Apple</manufacturer>
+            <condition>New</condition>
+            <discount>15.0</discount>
+            <type>laptops</type>
+        </laptop>
+        <laptop id="Mac10">
+            <name>Mac10</name>
+            <price>2050.99</price>
+            <image>mac10.JPG</image>
+            <manufacturer>Apple</manufacturer>
+            <condition>New</condition>
+            <discount>15.0</discount>
+            <type>laptops</type>
+        </laptop>
+
+        <laptop id="ENVY x360">
+            <name>ENVY x360</name>
+            <price>1320.99</price>
+            <image>hp1.JPG</image>
+            <manufacturer>HP</manufacturer>
+            <condition>New</condition>
+            <discount>15.0</discount>
+            <type>laptops</type>
+        </laptop>
+        <laptop id="Pavilion">
+            <name>Pavilion</name>
+            <price>1450.99</price>
+            <image>hp2.JPG</image>
+            <manufacturer>HP</manufacturer>
+            <condition>New</condition>
+            <discount>15.0</discount>
+            <type>laptops</type>
+        </laptop>
+        <laptop id="TouchScreen1">
+            <name>TouchScreen1</name>
+            <price>1250.99</price>
+            <image>hp3.JPG</image>
+            <manufacturer>HP</manufacturer>
+            <condition>New</condition>
+            <discount>15.0</discount>
+            <type>laptops</type>
+        </laptop>
+        <laptop id="Spectre">
+            <name>Spectre</name>
+            <price>1786.99</price>
+            <image>hp4.JPG</image>
+            <manufacturer>HP</manufacturer>
+            <condition>New</condition>
+            <discount>15.0</discount>
+            <type>laptops</type>
+        </laptop>
+        <laptop id="EliteBook">
+            <name>EliteBook</name>
+            <price>1234.99</price>
+            <image>hp5.JPG</image>
+            <manufacturer>HP</manufacturer>
+            <condition>New</condition>
+            <discount>15.0</discount>
+            <type>laptops</type>
+        </laptop>
+        <laptop id="TouchScreen2">
+            <name>TouchScreen2</name>
+            <price>1231.99</price>
+            <image>hp6.JPG</image>
+            <manufacturer>HP</manufacturer>
+            <condition>New</condition>
+            <discount>15.0</discount>
+            <type>laptops</type>
+        </laptop>
+        <laptop id="Compag">
+            <name>Compag</name>
+            <price>500.99</price>
+            <image>hp7.JPG</image>
+            <manufacturer>HP</manufacturer>
+            <condition>New</condition>
+            <discount>15.0</discount>
+            <type>laptops</type>
+        </laptop>
+        <laptop id="OMEN">
+            <name>OMEN</name>
+            <price>550.99</price>
+            <image>hp8.JPG</image>
+            <manufacturer>HP</manufacturer>
+            <condition>New</condition>
+            <discount>15.0</discount>
+            <type>laptops</type>
+        </laptop>
+        <laptop id="EliteBook2">
+            <name>EliteBook2</name>
+            <price>555.99</price>
+            <image>hp9.JPG</image>
+            <manufacturer>HP</manufacturer>
+            <condition>New</condition>
+            <discount>15.0</discount>
+            <type>laptops</type>
+        </laptop>
+        <laptop id="Chromebook1">
+            <name>Chromebook1</name>
+            <price>150.99</price>
+            <image>hp10.JPG</image>
+            <manufacturer>HP</manufacturer>
+            <condition>New</condition>
+            <discount>15.0</discount>
+            <type>laptops</type>
+        </laptop>
+
+        <laptop id="G7">
+            <name>G7</name>
+            <price>1111.99</price>
+            <image>dell1.JPG</image>
+            <manufacturer>Dell</manufacturer>
+            <condition>New</condition>
+            <discount>15.0</discount>
+            <type>laptops</type>
+        </laptop>
+        <laptop id="Inspiron">
+            <name>Inspiron</name>
+            <price>1123.99</price>
+            <image>dell2.JPG</image>
+            <manufacturer>Dell</manufacturer>
+            <condition>New</condition>
+            <discount>15.0</discount>
+            <type>laptops</type>
+        </laptop>
+        <laptop id="Inspiron2">
+            <name>Inspiron2</name>
+            <price>1220.99</price>
+            <image>dell3.JPG</image>
+            <manufacturer>Dell</manufacturer>
+            <condition>New</condition>
+            <discount>15.0</discount>
+            <type>laptops</type>
+        </laptop>
+        <laptop id="InspironTouch">
+            <name>InspironTouch</name>
+            <price>1255.99</price>
+            <image>dell4.JPG</image>
+            <manufacturer>Dell</manufacturer>
+            <condition>New</condition>
+            <discount>15.0</discount>
+            <type>laptops</type>
+        </laptop>
+        <laptop id="Latitude">
+            <name>Latitude</name>
+            <price>1000.99</price>
+            <image>dell5.JPG</image>
+            <manufacturer>Dell</manufacturer>
+            <condition>New</condition>
+            <discount>15.0</discount>
+            <type>laptops</type>
+        </laptop>
+        <laptop id="InspironB">
+            <name>InspironB</name>
+            <price>550.99</price>
+            <image>dell6.JPG</image>
+            <manufacturer>Dell</manufacturer>
+            <condition>New</condition>
+            <discount>15.0</discount>
+            <type>laptops</type>
+        </laptop>
+        <laptop id="XPS">
+            <name>XPS</name>
+            <price>557.99</price>
+            <image>dell7.JPG</image>
+            <manufacturer>Dell</manufacturer>
+            <condition>New</condition>
+            <discount>15.0</discount>
+            <type>laptops</type>
+        </laptop>
+        <laptop id="Inspiron15">
+            <name>Inspiron15</name>
+            <price>155.99</price>
+            <image>dell8.JPG</image>
+            <manufacturer>Dell</manufacturer>
+            <condition>New</condition>
+            <discount>15.0</discount>
+            <type>laptops</type>
+        </laptop>
+        <laptop id="Latitude15">
+            <name>Latitude15</name>
+            <price>750.99</price>
+            <image>dell9.JPG</image>
+            <manufacturer>Dell</manufacturer>
+            <condition>New</condition>
+            <discount>15.0</discount>
+            <type>laptops</type>
+        </laptop>
+        <laptop id="Latitude14">
+            <name>Latitude14</name>
+            <price>850.99</price>
+            <image>dell10.JPG</image>
+            <manufacturer>Dell</manufacturer>
+            <condition>New</condition>
+            <discount>15.0</discount>
+            <type>laptops</type>
+        </laptop>
+    </LaptopsCatalog>
+
+
+    <VoiceCatalog>
+        <voice id="GoogleHome">
+            <name>Google-Home</name>
+            <price>129.99</price>
+            <image>google1.JPG</image>
+            <manufacturer>Google</manufacturer>
+            <condition>New</condition>
+            <discount>20.0</discount>
+            <type>voices</type>
+        </voice>
+        <voice id="homeminiC">
+            <name>homeminiC</name>
+            <price>53.99</price>
+            <image>google2.JPG</image>
+            <manufacturer>Google</manufacturer>
+            <condition>New</condition>
+            <discount>20.0</discount>
+            <type>voices</type>
+        </voice>
+        <voice id="homeminiCh">
+            <name>homeminiCh</name>
+            <price>53.99</price>
+            <image>google3.JPG</image>
+            <manufacturer>Google</manufacturer>
+            <condition>New</condition>
+            <discount>20.0</discount>
+            <type>voices</type>
+        </voice>
+        <voice id="homeminiCoral">
+            <name>homeminiCoral</name>
+            <price>34.99</price>
+            <image>google4.JPG</image>
+            <manufacturer>Google</manufacturer>
+            <condition>New</condition>
+            <discount>20.0</discount>
+            <type>voices</type>
+        </voice>
+        <voice id="BaseB">
+            <name>BaseB</name>
+            <price>34.99</price>
+            <image>google5.JPG</image>
+            <manufacturer>Google</manufacturer>
+            <condition>New</condition>
+            <discount>20.0</discount>
+            <type>voices</type>
+        </voice>
+        <voice id="BaseG">
+            <name>BaseG</name>
+            <price>53.99</price>
+            <image>google6.JPG</image>
+            <manufacturer>Google</manufacturer>
+            <condition>New</condition>
+            <discount>20.0</discount>
+            <type>voices</type>
+        </voice>
+        <voice id="maxB">
+            <name>maxB</name>
+            <price>399.99</price>
+            <image>google7.JPG</image>
+            <manufacturer>Google</manufacturer>
+            <condition>New</condition>
+            <discount>20.0</discount>
+            <type>voices</type>
+        </voice>
+        <voice id="maxW">
+            <name>maxW</name>
+            <price>534.99</price>
+            <image>google8.JPG</image>
+            <manufacturer>Google</manufacturer>
+            <condition>New</condition>
+            <discount>20.0</discount>
+            <type>voices</type>
+        </voice>
+        <voice id="maxChalk">
+            <name>maxChalk</name>
+            <price>534.99</price>
+            <image>google9.JPG</image>
+            <manufacturer>Google</manufacturer>
+            <condition>New</condition>
+            <discount>20.0</discount>
+            <type>voices</type>
+        </voice>
+        <voice id="smart">
+            <name>smart</name>
+            <price>134.99</price>
+            <image>google10.JPG</image>
+            <manufacturer>Google</manufacturer>
+            <condition>New</condition>
+            <discount>20.0</discount>
+            <type>voices</type>
+        </voice>
+
+        <voice id="Echo">
+            <name>Echo</name>
+            <price>134.99</price>
+            <image>amazon1.JPG</image>
+            <manufacturer>Amazon</manufacturer>
+            <condition>New</condition>
+            <discount>15.0</discount>
+            <type>voices</type>
+        </voice>
+        <voice id="Dot">
+            <name>Dot</name>
+            <price>34.99</price>
+            <image>amazon2.JPG</image>
+            <manufacturer>Amazon</manufacturer>
+            <condition>New</condition>
+            <discount>15.0</discount>
+            <type>voices</type>
+        </voice>
+        <voice id="EchoB">
+            <name>EchoB</name>
+            <price>134.99</price>
+            <image>amazon3.JPG</image>
+            <manufacturer>Amazon</manufacturer>
+            <condition>New</condition>
+            <discount>15.0</discount>
+            <type>voices</type>
+        </voice>
+        <voice id="PlusW">
+            <name>PlusW</name>
+            <price>134.99</price>
+            <image>amazon4.JPG</image>
+            <manufacturer>Amazon</manufacturer>
+            <condition>New</condition>
+            <discount>15.0</discount>
+            <type>voices</type>
+        </voice>
+        <voice id="PlusB">
+            <name>PlusB</name>
+            <price>134.99</price>
+            <image>amazon5.JPG</image>
+            <manufacturer>Amazon</manufacturer>
+            <condition>New</condition>
+            <discount>15.0</discount>
+            <type>voices</type>
+        </voice>
+        <voice id="DotW">
+            <name>DotW</name>
+            <price>34.99</price>
+            <image>amazon6.JPG</image>
+            <manufacturer>Amazon</manufacturer>
+            <condition>New</condition>
+            <discount>15.0</discount>
+            <type>voices</type>
+        </voice>
+        <voice id="Echo2">
+            <name>Echo2</name>
+            <price>134.99</price>
+            <image>amazon7.JPG</image>
+            <manufacturer>Amazon</manufacturer>
+            <condition>New</condition>
+            <discount>15.0</discount>
+            <type>voices</type>
+        </voice>
+        <voice id="Spot">
+            <name>Spot</name>
+            <price>134.99</price>
+            <image>amazon8.JPG</image>
+            <manufacturer>Amazon</manufacturer>
+            <condition>New</condition>
+            <discount>15.0</discount>
+            <type>voices</type>
+        </voice>
+        <voice id="Fire1">
+            <name>Fire1</name>
+            <price>134.99</price>
+            <image>amazon9.JPG</image>
+            <manufacturer>Amazon</manufacturer>
+            <condition>New</condition>
+            <discount>15.0</discount>
+            <type>voices</type>
+        </voice>
+        <voice id="Echo2G">
+            <name>Echo2G</name>
+            <price>134.99</price>
+            <image>amazon10.JPG</image>
+            <manufacturer>Amazon</manufacturer>
+            <condition>New</condition>
+            <discount>15.0</discount>
+            <type>voices</type>
+        </voice>
+
+        <voice id="HomePod">
+            <name>HomePod</name>
+            <price>334.99</price>
+            <image>apple1.JPG</image>
+            <manufacturer>Apple</manufacturer>
+            <condition>New</condition>
+            <discount>15.0</discount>
+            <type>voices</type>
+        </voice>
+        <voice id="HomePod2">
+            <name>HomePod2</name>
+            <price>334.99</price>
+            <image>apple2.JPG</image>
+            <manufacturer>Apple</manufacturer>
+            <condition>New</condition>
+            <discount>15.0</discount>
+            <type>voices</type>
+        </voice>
+        <voice id="MG1">
+            <name>MG1</name>
+            <price>13.99</price>
+            <image>apple3.JPG</image>
+            <manufacturer>Apple</manufacturer>
+            <condition>New</condition>
+            <discount>15.0</discount>
+            <type>voices</type>
+        </voice>
+        <voice id="MG2">
+            <name>MG2</name>
+            <price>13.99</price>
+            <image>apple4.JPG</image>
+            <manufacturer>Apple</manufacturer>
+            <condition>New</condition>
+            <discount>15.0</discount>
+            <type>voices</type>
+        </voice>
+        <voice id="MG3">
+            <name>MG3</name>
+            <price>13.99</price>
+            <image>apple5.JPG</image>
+            <manufacturer>Apple</manufacturer>
+            <condition>New</condition>
+            <discount>15.0</discount>
+            <type>voices</type>
+        </voice>
+        <voice id="MG4">
+            <name>MG4</name>
+            <price>13.99</price>
+            <image>apple6.JPG</image>
+            <manufacturer>Apple</manufacturer>
+            <condition>New</condition>
+            <discount>15.0</discount>
+            <type>voices</type>
+        </voice>
+        <voice id="MG5">
+            <name>MG5</name>
+            <price>13.99</price>
+            <image>apple7.JPG</image>
+            <manufacturer>Apple</manufacturer>
+            <condition>New</condition>
+            <discount>15.0</discount>
+            <type>voices</type>
+        </voice>
+        <voice id="MG6">
+            <name>MG6</name>
+            <price>13.99</price>
+            <image>apple8.JPG</image>
+            <manufacturer>Apple</manufacturer>
+            <condition>New</condition>
+            <discount>15.0</discount>
+            <type>voices</type>
+        </voice>
+        <voice id="MG7">
+            <name>MG7</name>
+            <price>13.99</price>
+            <image>apple9.JPG</image>
+            <manufacturer>Apple</manufacturer>
+            <condition>New</condition>
+            <discount>15.0</discount>
+            <type>voices</type>
+        </voice>
+        <voice id="MG8">
+            <name>MG8</name>
+            <price>134.99</price>
+            <image>apple10.JPG</image>
+            <manufacturer>Apple</manufacturer>
+            <condition>New</condition>
+            <discount>15.0</discount>
+            <type>voices</type>
+        </voice>
+    </VoiceCatalog>
+
+    <AccessoryCatalog>
+        <accessory id="DILEX">
+            <name>DILEX</name>
+            <price>44.99</price>
+            <image>iphone1.JPG</image>
+            <manufacturer>Apple</manufacturer>
+            <condition>New</condition>
+            <discount>40.0</discount>
+            <type>accessories</type>
+        </accessory>
+        <accessory id="OnlyCase">
+            <name>OnlyCase</name>
+            <price>19.99</price>
+            <image>iphone2.JPG</image>
+            <manufacturer>Apple</manufacturer>
+            <condition>New</condition>
+            <discount>40.0</discount>
+            <type>accessories</type>
+        </accessory>
+        <accessory id="Roll">
+            <name>Roll</name>
+            <price>49.99</price>
+            <image>iphone3.JPG</image>
+            <manufacturer>Apple</manufacturer>
+            <condition>New</condition>
+            <discount>40.0</discount>
+            <type>accessories</type>
+        </accessory>
+        <accessory id="Northill">
+            <name>Northill</name>
+            <price>39.99</price>
+            <image>iphone4.JPG</image>
+            <manufacturer>Apple</manufacturer>
+            <condition>New</condition>
+            <discount>40.0</discount>
+            <type>accessories</type>
+        </accessory>
+
+
+    </AccessoryCatalog>
+
+
+
+
+</ProductCatalog>
